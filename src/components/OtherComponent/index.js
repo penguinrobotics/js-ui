@@ -1,5 +1,5 @@
 import React from "react"
-import "./OtherComponent.css"
+import "./index.css"
 
 function OtherComponent() {
 

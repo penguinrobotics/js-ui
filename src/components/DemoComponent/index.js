@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import "./DemoComponent.css"
+import "./index.css"
 
 function DemoComponent(props) {
   const [display, setDisplay] = useState(false)
